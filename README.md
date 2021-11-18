@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishant malik
+- 👋 Hi,I’m @vishant malik
 - 👀 I’m interested in Data Analyst or Data Visualisation in Python.
 - 🌱 I’m currently learning Python,Sql and Other Data Visualisation Tools.
 - 💞️ I’m looking to collaborate on Github Community For Better Learning.
